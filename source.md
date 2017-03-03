@@ -1,7 +1,7 @@
-__David Leuliette__  
-[davidl.fr](http://davidl.fr)
+__Rudy Marle__  
 
-# Je dessine et développe des sites internet
+
+# Administration système et réseau && assistance utilisateur
 
 ### Compétences techniques
 
@@ -9,18 +9,19 @@ __David Leuliette__
 - HTML
 - CSS
 - JavaScript
-- Ruby
+- Java
+- Administration système
+- Réseau (base Cisco)
 
 ### Diplômes
 
-##### Licence Professionnelle : Concepteur Intégrateur Web
-__Efficom__ - 2009 - Lille
+##### DUT informatique
+__IUT__ - 2017 - Calais
 
-##### DUT informatique : Imagerie numérique
-__Institut Universitaire de Technologie__ - 2008 - Calais
 
 ### Expériences professionnelles
 
-__Formateur IUT Calais__ — 2017
-
+Administrateur système & réseau
+ 
 ### Contact
+[rudy.marle@orange.fr](rudy.marle@orange.fr)
