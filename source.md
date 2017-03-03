@@ -1,7 +1,7 @@
 __Rudy Marle__  
 
 
-# Administration système et réseau && assistance utilisateur
+# Je fais de l'administration système, du réseau et de l'assistance utilisateur
 
 ### Compétences techniques
 
