@@ -24,4 +24,5 @@ __IUT__ - 2017 - Calais
 Administrateur système & réseau
  
 ### Contact
-[rudy.marle@orange.fr](rudy.marle@orange.fr)
+rudy.marle@orange.fr
+06-63-42-44-90
